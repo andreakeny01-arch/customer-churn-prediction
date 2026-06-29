@@ -2,7 +2,7 @@
 
 A Machine Learning web application that predicts whether a telecom customer is likely to churn based on customer information. The project is built using Python, Flask, Scikit-learn, and HTML/CSS.
 
-📌 Features
+## 📌 Features
 
 - Predicts customer churn using a trained Machine Learning model.
 - User-friendly web interface built with Flask.
@@ -69,7 +69,7 @@ Recall
 F1-Score
 Confusion Matrix
 
-# 🎯 Future Improvements
+## 🎯 Future Improvements
 Deploy on Render or Railway
 
 Add user authentication
