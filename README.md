@@ -26,9 +26,13 @@ A Machine Learning web application that predicts whether a telecom customer is l
 
 customer_churn_prediction/
 │
+
 ├── app.py
+
 ├── customer_churn_model.pkl
+
 ├── requirements.txt
+
 ├── templates/
 │ └── index.html
 ├── static/
@@ -65,7 +69,11 @@ Confusion Matrix
 
 #🎯 Future Improvements
 Deploy on Render or Railway
+
 Add user authentication
+
 Improve UI/UX
+
 Try advanced models like XGBoost and LightGBM
+
 Explain predictions using SHAP
