@@ -24,10 +24,12 @@ A Machine Learning web application that predicts whether a telecom customer is l
 ## 📂 Project Structure
 
 
-customer_churn_prediction/
-│
+customer_churn_prediction/│
+
 ├── app.py
+
 ├── customer_churn_model.pkl
+
 ├── requirements.txt
 
 ├── templates/
@@ -41,6 +43,7 @@ customer_churn_prediction/
 
 ├── dataset/
 │ └── customer_churn.csv
+
 └── README.md
 
 
