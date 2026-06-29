@@ -34,15 +34,22 @@ customer_churn_prediction/
 ├── requirements.txt
 
 ├── templates/
-│ └── index.html
-├── static/
-│ └── style.css
-├── notebooks/
-│ └── model_training.ipynb
-├── dataset/
-│ └── customer_churn.csv
-└── README.md
 
+│ └── index.html
+
+├── static/
+
+│ └── style.css
+
+├── notebooks/
+
+│ └── model_training.ipynb
+
+├── dataset/
+
+│ └── customer_churn.csv
+
+└── README.md
 
 
 📊 Machine Learning Workflow
